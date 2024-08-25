@@ -1,1 +1,1 @@
-![plot](./Screenshot (12).png)
+![Alt text](Screenshot (12).png)
